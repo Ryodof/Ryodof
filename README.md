@@ -27,14 +27,13 @@ Full-stack разработчик с фокусом на эффективные 
 - [PyTermRoguelike](https://github.com/Ryodof/PyTermRoguelike) - Roguelike игра в терминале
 
 #### 🌐 Веб
-- [Ryodof.github.io](https://github.com/Ryodof/Ryodof.github.io) - Персональная страница
-- [HTML-CSS-JS-Projects](https://github.com/Ryodof/HTML-CSS-JS-Projects) - Коллекция веб-экспериментов
+- [Rdferws](rdferws.pages.dev) - Персональная страница
 
 #### 🧠 Алгоритмы
-- [Algorithms](https://github.com/Ryodof/Algorithms) - Реализации алгоритмов на C++
+- [Algorithms](https://github.com/Ryodof/Python) - Реализации алгоритмов на Python
 
 #### 📝 Прочее
-- [dotfiles](https://github.com/Ryodof/dotfiles) - Мои конфигурации Linux
+- [dotfiles](https://github.com/Ryodof/dot-files) - Мои конфигурации Linux
 - [CheatSheets](https://github.com/Ryodof/CheatSheets) - Шпаргалки по технологиям
 
 ---
@@ -47,4 +46,4 @@ Full-stack разработчик с фокусом на эффективные 
 
 ---
 
-📫 Связь: [Telegram](https://t.me/your_telegram) | [Email](mailto:your_email@example.com)
+📫 Связь: [Telegram](https://t.me/Ryodof) | [Email](dev@ryodof.ru)
