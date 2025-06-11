@@ -23,8 +23,7 @@ Full-stack разработчик с фокусом на эффективные 
 ### 🔥 Мои проекты
 
 #### 🐍 Python
-- [PyTermTris](https://github.com/Ryodof/PyTermTris) - Тетрис в терминале на Python
-- [PyTermRoguelike](https://github.com/Ryodof/PyTermRoguelike) - Roguelike игра в терминале
+
 
 #### 🌐 Веб
 - [Rdferws](https://rdferws.pages.dev/) - Персональная страница
@@ -34,7 +33,6 @@ Full-stack разработчик с фокусом на эффективные 
 
 #### 📝 Прочее
 - [dotfiles](https://github.com/Ryodof/dot-files) - Мои конфигурации Linux
-- [CheatSheets](https://github.com/Ryodof/CheatSheets) - Шпаргалки по технологиям
 
 ---
 
