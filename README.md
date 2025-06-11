@@ -27,7 +27,7 @@ Full-stack разработчик с фокусом на эффективные 
 - [PyTermRoguelike](https://github.com/Ryodof/PyTermRoguelike) - Roguelike игра в терминале
 
 #### 🌐 Веб
-- [Rdferws]([rdferws.pages.dev](https://rdferws.pages.dev/)) - Персональная страница
+- [Rdferws](https://rdferws.pages.dev/) - Персональная страница
 
 #### 🧠 Алгоритмы
 - [Algorithms](https://github.com/Ryodof/Python) - Реализации алгоритмов на Python
